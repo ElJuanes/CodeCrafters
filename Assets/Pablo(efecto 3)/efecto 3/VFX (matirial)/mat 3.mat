@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Main
+  m_Name: mat 3
   m_Shader: {fileID: -6465566751694194690, guid: a53850e453636674a857a33a1a9e48eb,
     type: 3}
   m_Parent: {fileID: 0}
@@ -29,7 +29,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 35d416f6605265c41ac9985a7223d911, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3080921be663f8941b77f2a71abff2a6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -73,7 +73,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _baseMpa:
-        m_Texture: {fileID: 2800000, guid: 35d416f6605265c41ac9985a7223d911, type: 3}
+        m_Texture: {fileID: 2800000, guid: 44f8ccb2e25b6bd4a82f72fb3c5e9b89, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -149,7 +149,7 @@ Material:
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _TexturaVelocidad: {r: 0, g: 0, b: 0, a: 0}
-    - _emision: {r: 1.7411011, g: 1.7411011, b: 1.7411011, a: 1}
+    - _emision: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &8497838557302273081
