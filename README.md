@@ -1,6 +1,10 @@
 # CodeCrafters
  Equipo Computación Grafica 2024-2
 
+Actividad #4 Agua
+
+https://github.com/user-attachments/assets/bb97f92a-c75b-423c-b416-5291dd2bee58
+
 Entrega numero 1 Tornado
 Sebastián Vargas Uribe 
 https://drive.google.com/file/d/1ls_NpDeRxRt2zPVfSDFcgsBzdI6syp7N/view?usp=sharing
