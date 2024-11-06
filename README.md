@@ -4,6 +4,8 @@ Actividad #2
 
 https://github.com/user-attachments/assets/09fa34ca-0237-4b58-8cae-1149c8c6c361
 
+En este video y a dia de hoy la escena solo tiene elementos creados por Juan Esteban Aristizábal Ortiz (Escena,animacion, director, meshes y demás), Camilo Piza (La bola inicial) y Sebastián Vargas Uribe (Texturas y ciertos efectos).
+
 Actividad #4 Agua
 
 https://github.com/user-attachments/assets/bb97f92a-c75b-423c-b416-5291dd2bee58
