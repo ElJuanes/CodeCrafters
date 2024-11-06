@@ -1,5 +1,8 @@
 # CodeCrafters
  Equipo Computación Grafica 2024-2
+Actividad #2
+
+https://github.com/user-attachments/assets/09fa34ca-0237-4b58-8cae-1149c8c6c361
 
 Actividad #4 Agua
 
